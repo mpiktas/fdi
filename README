@@ -1,0 +1,3 @@
+Fancy demand integrals. Simulate income and value, using Metropolis algorithm.
+Income distribution is known, try various value distributions conditional on
+income. Calculate Lorentz curve for comparison.
